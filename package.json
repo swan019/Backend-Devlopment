@@ -1,0 +1,11 @@
+{
+  "name": "backend-devlopment-c-a-c",
+  "version": "1.0.0",
+  "description": "Learn Backend Devlopment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "swapnili019",
+  "license": "ISC"
+}
